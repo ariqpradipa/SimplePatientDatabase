@@ -1,4 +1,5 @@
-==EXTRACT KESELURUHAN FILE DAN FOLDER AGAR PROGRAM DAPAT BERJALAN DENGAN BENAR==
+Program ini dibuat untuk menyelesaikan tugas proyek akhir semester 1 mata 
+kuliah pemrograman dasar Universitas Indonesia
 
 Program ini bertujuan untuk mendata orang-orang yang terindikasi terkena
 Covid-19 disuatu rumah sakit. Program ini bisa menyimpan dan menampilkan
